@@ -8,7 +8,7 @@ param sqlAdminPassword string = 'g@G9@2nD7C1BP%uh'
 param deployments array = [
   {
     name: 'gpt-4o'
-    capacity: 40
+    capacity: 8
     version: '2024-05-13'
   }
   {
